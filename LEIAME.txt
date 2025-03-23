@@ -1,0 +1,18 @@
+Exercício Programa 2
+--------------------
+
+Python 3.7 ou posteriores
+
+Nome: Rafael Agra de Castro Motta N° USP: 11807192
+Nome: Thaís Dos Santos Ferreira N° USP: 11820513
+
+--------------------
+
+Para rodar o programa é necessário ter instalada a 
+biblioteca Numpy no seu computador e a linguagem 
+python versão 3.7 ou posterior.
+
+Ao iniciar o programa ele rodará para cada caso as
+tarefas 1, 2, 3 e 4 propostas e exibirá na tela  
+seu respectivo resultado com base nos valores fornecidos 
+com n=6, n=8 e n = 10
